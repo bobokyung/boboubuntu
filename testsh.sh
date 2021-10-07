@@ -10,5 +10,5 @@ do
 		j=`expr $j + 1`
 	done
 	i=$(( i + 1 ))
-	echo ""
+	echo "    "
 done
